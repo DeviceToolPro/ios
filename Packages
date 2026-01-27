@@ -28,11 +28,11 @@ Section: Utilities
 Depends: firmware (>= 14.0), ellekit, ldid, openssh, ai.akemi.appsyncunified, ws.hbang.newterm3
 Recommends: com.tigisoftware.filza
 Architecture: iphoneos-arm64
-Version: 0.0.2-180+debug
+Version: 0.0.2-183+debug
 Installed-Size: 1168
 Filename: debs/com.ban.devicetool.deb
-Size: 275586
-MD5sum: 053c9d34ffe2d2936badb7efc6ff6c25
-SHA1: 1dbc5d9abc9571bf721f8affef4493ee7afc4b61
-SHA256: b964d9457cca2c8e59b55a5b6670b015579fdad99508ee7320441e5cbe317fbc
+Size: 275870
+MD5sum: 2b0b5bdd688cdc72228b369eec2ac1c1
+SHA1: 05c650f795d9562562643b6d4240213894148dd9
+SHA256: 4ebd64ec7f1e8a8a1b4f3294460b4ae27615b1b997caf35d76a7b3317d9618b5
 
