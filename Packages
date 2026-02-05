@@ -25,14 +25,14 @@ Description: An awesome application for Device Management!
 Maintainer: LeHong
 Author: LeHong
 Section: Utilities
-Depends: firmware (>= 14.0), ellekit, ldid, openssh, ai.akemi.appsyncunified, ws.hbang.newterm3
+Depends: firmware (>= 14.0), ellekit, ldid, openssh, ai.akemi.appsyncunified, ws.hbang.newterm3, sqlite3, adv-cmds, coreutils, system-cmds, network-cmds, shell-cmds, dpkg, preferenceloader, ca-certificates
 Recommends: com.tigisoftware.filza
 Architecture: iphoneos-arm64
-Version: 0.0.2-183+debug
-Installed-Size: 1168
+Version: 0.0.3-4+debug
+Installed-Size: 1388
 Filename: debs/com.ban.devicetool.deb
-Size: 275870
-MD5sum: 2b0b5bdd688cdc72228b369eec2ac1c1
-SHA1: 05c650f795d9562562643b6d4240213894148dd9
-SHA256: 4ebd64ec7f1e8a8a1b4f3294460b4ae27615b1b997caf35d76a7b3317d9618b5
+Size: 329978
+MD5sum: bb1fc05963d96a822a76f70dfdf7fc9a
+SHA1: 5ac537c1eece74e90be0a76c8f88c116b3dfacb1
+SHA256: 4816e82f5876759d45f4c811d7722cf0d72d557c86c07c5425f9c9c5a4540b05
 
